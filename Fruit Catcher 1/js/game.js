@@ -1,6 +1,6 @@
 class Game{
     constructor(x,y){
-x = x;
+        
     }
     getState() {
         var gameStateRef = database.ref('gameState');
